@@ -1,6 +1,6 @@
 # Vision: From Photon to Mind
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22978141.svg)](https://doi.org/10.5281/zenodo.22978141)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > From photon to perception: the human eye, the physics of light, and vision across species — up to the threshold of the brain.
@@ -17,4 +17,4 @@ A reference walk through vision in three parts, tracing one continuous argument 
 ## How to cite
 Cite the concept DOI (always resolves to the latest version):
 
-> Stan, A. C. (2026). *Vision: From Photon to Mind* (Version 1.0) [Essay]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Stan, A. C. (2026). *Vision: From Photon to Mind* (Version 1.0) [Essay]. Zenodo. https://doi.org/10.5281/zenodo.22978141
