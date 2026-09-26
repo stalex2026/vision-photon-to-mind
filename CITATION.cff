@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you refer to this essay, please cite it using the metadata below — preferably via its DOI."
+title: "Vision: From Photon to Mind"
+abstract: "A reference walk through vision in three parts, from the absorption of a single photon to the edge of the eye: human ocular anatomy and physiology, the physics of light, and comparative and evolutionary vision. It shows why vision is confined to a narrow window fixed by physics, and ends at the optic disc, the threshold to the central visual pathway."
+authors:
+  - family-names: "Stan"
+    given-names: "Alexandru C."
+    orcid: "https://orcid.org/0000-0002-7463-0393"
+version: "1.0.0"
+date-released: "2026-09-26"
+license: CC-BY-4.0
+url: "https://github.com/stalex2026/vision-photon-to-mind"
+repository-code: "https://github.com/stalex2026/vision-photon-to-mind"
+keywords:
+  - "vision"
+  - "retina"
+  - "phototransduction"
+  - "visual cycle"
+  - "physics of light"
+  - "electromagnetic spectrum"
+  - "polarisation vision"
+  - "comparative vision"
+  - "eye evolution"
+  - "inverted retina"
+preferred-citation:
+  type: article
+  title: "Vision: From Photon to Mind"
+  authors:
+    - family-names: "Stan"
+      given-names: "Alexandru C."
+      orcid: "https://orcid.org/0000-0002-7463-0393"
+  year: 2026
+  doi: "10.5281/zenodo.XXXXXXX"
+  url: "https://doi.org/10.5281/zenodo.XXXXXXX"

@@ -1,0 +1,28 @@
+{
+  "title": "Vision: From Photon to Mind",
+  "description": "A reference walk through vision in three parts, tracing one continuous argument from the absorption of a single photon to the perception it enables. Part I sets out the human eye at reference grade: optical anatomy and dioptrics, the ten-layer retina, receptor physiology and phototransduction, and the biochemistry of visual pigments and the retinoid cycle, with clinical correlates throughout. Part II assembles the physics of light on which it rests: wave and photon, the electromagnetic continuum, field structure and polarisation, refraction and absorption, and the diffraction limit. Together these show why vision is confined to a narrow \"Goldilocks\" window. Photons there are energetic enough for reversible photochemistry yet too gentle to destroy the detector, and wavelengths are short enough to image through a small wet aperture yet long enough to be refracted by tissue. Part III turns comparative and evolutionary. It covers optics and retinas across species, chromophore variants, eyes around other stars, polarisation-based perception, colour as inference versus barcode, the stepwise evolution of the camera eye, and the inverted vertebrate retina as both developmental accident and co-evolved design. The argument closes at the optic disc, the threshold to the central visual pathway.",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Stan, Alexandru C.",
+      "orcid": "0000-0002-7463-0393",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "keywords": [
+    "vision",
+    "retina",
+    "phototransduction",
+    "visual cycle",
+    "physics of light",
+    "electromagnetic spectrum",
+    "polarisation vision",
+    "comparative vision",
+    "eye evolution",
+    "inverted retina"
+  ]
+}
